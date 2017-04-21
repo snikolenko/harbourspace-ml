@@ -1,0 +1,74 @@
+Iteration 1
+loss: 1.9981
+----- diversity: 0.2
+----- Generating with seed: "*ci"
+*city#
+
+----- diversity: 0.5
+----- Generating with seed: "*ci"
+*city#
+
+----- diversity: 1.0
+----- Generating with seed: "*ci"
+*cise#
+
+----- diversity: 1.2
+----- Generating with seed: "*ci"
+*cir#
+
+
+Iteration 2
+loss: 1.8366
+----- diversity: 0.2
+----- Generating with seed: "*ea"
+*east park#
+
+----- diversity: 0.5
+----- Generating with seed: "*ea"
+*east park#
+
+----- diversity: 1.0
+----- Generating with seed: "*ea"
+*east poir#
+
+----- diversity: 1.2
+----- Generating with seed: "*ea"
+*eatline cruces#
+
+
+Iteration 3
+loss: 1.7975
+----- diversity: 0.2
+----- Generating with seed: "*fo"
+*fort beach#
+
+----- diversity: 0.5
+----- Generating with seed: "*fo"
+*fork#
+
+----- diversity: 1.0
+----- Generating with seed: "*fo"
+*forp#
+
+----- diversity: 1.2
+----- Generating with seed: "*fo"
+*fort oak spunklands#
+
+
+Iteration 4
+loss: 1.7757
+----- diversity: 0.2
+----- Generating with seed: "*sa"
+*saint cantaint city#
+
+----- diversity: 0.5
+----- Generating with seed: "*sa"
+*sandale#
+
+----- diversity: 1.0
+----- Generating with seed: "*sa"
+*sainston#
+
+----- diversity: 1.2
+----- Generating with seed: "*sa"
+*sa#

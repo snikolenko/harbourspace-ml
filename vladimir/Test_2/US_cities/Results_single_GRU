@@ -1,0 +1,72 @@
+Iteration 1
+loss: 1.9973
+----- diversity: 0.2
+----- Generating with seed: "*ca"
+*cale#
+
+----- diversity: 0.5
+----- Generating with seed: "*ca"
+*cale#
+
+----- diversity: 1.0
+----- Generating with seed: "*ca"
+*cassidos#
+
+----- diversity: 1.2
+----- Generating with seed: "*ca"
+*calusico#
+
+Iteration 2
+loss: 1.8636
+----- diversity: 0.2
+----- Generating with seed: "*fl"
+*fland#
+
+----- diversity: 0.5
+----- Generating with seed: "*fl"
+*flow harlo#
+
+----- diversity: 1.0
+----- Generating with seed: "*fl"
+*flaw#
+
+----- diversity: 1.2
+----- Generating with seed: "*fl"
+*flevarkicadus#
+
+Iteration 3
+loss: 1.8273
+----- diversity: 0.2
+----- Generating with seed: "*bo"
+*bole#
+
+----- diversity: 0.5
+----- Generating with seed: "*bo"
+*bows#
+
+----- diversity: 1.0
+----- Generating with seed: "*bo"
+*bow#
+
+----- diversity: 1.2
+----- Generating with seed: "*bo"
+*bowstapefia#
+
+
+Iteration 4
+loss: 1.8074
+----- diversity: 0.2
+----- Generating with seed: "*gr"
+*greek#
+
+----- diversity: 0.5
+----- Generating with seed: "*gr"
+*greek#
+
+----- diversity: 1.0
+----- Generating with seed: "*gr"
+*green whitlazatalisbee#
+
+----- diversity: 1.2
+----- Generating with seed: "*gr"
+*gran#
